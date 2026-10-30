@@ -1,0 +1,122 @@
+case_id,cause
+486,1. no geometry / no mesh (CAD or meshing failed)
+291,1. no geometry / no mesh (CAD or meshing failed)
+338,1. no geometry / no mesh (CAD or meshing failed)
+345,1. no geometry / no mesh (CAD or meshing failed)
+351,1. no geometry / no mesh (CAD or meshing failed)
+246,1. no geometry / no mesh (CAD or meshing failed)
+357,1. no geometry / no mesh (CAD or meshing failed)
+223,1. no geometry / no mesh (CAD or meshing failed)
+414,1. no geometry / no mesh (CAD or meshing failed)
+196,1. no geometry / no mesh (CAD or meshing failed)
+195,1. no geometry / no mesh (CAD or meshing failed)
+189,1. no geometry / no mesh (CAD or meshing failed)
+171,1. no geometry / no mesh (CAD or meshing failed)
+121,1. no geometry / no mesh (CAD or meshing failed)
+453,1. no geometry / no mesh (CAD or meshing failed)
+443,1. no geometry / no mesh (CAD or meshing failed)
+484,1. no geometry / no mesh (CAD or meshing failed)
+23,1. no geometry / no mesh (CAD or meshing failed)
+30,1. no geometry / no mesh (CAD or meshing failed)
+40,1. no geometry / no mesh (CAD or meshing failed)
+312,1. no geometry / no mesh (CAD or meshing failed)
+721,2. geometry built but meshing failed
+601,2. geometry built but meshing failed
+603,2. geometry built but meshing failed
+717,2. geometry built but meshing failed
+720,2. geometry built but meshing failed
+798,2. geometry built but meshing failed
+625,2. geometry built but meshing failed
+807,2. geometry built but meshing failed
+694,2. geometry built but meshing failed
+793,2. geometry built but meshing failed
+636,2. geometry built but meshing failed
+696,2. geometry built but meshing failed
+643,2. geometry built but meshing failed
+655,2. geometry built but meshing failed
+656,2. geometry built but meshing failed
+722,2. geometry built but meshing failed
+686,2. geometry built but meshing failed
+747,2. geometry built but meshing failed
+744,2. geometry built but meshing failed
+843,2. geometry built but meshing failed
+812,2. geometry built but meshing failed
+988,2. geometry built but meshing failed
+970,2. geometry built but meshing failed
+964,2. geometry built but meshing failed
+962,2. geometry built but meshing failed
+960,2. geometry built but meshing failed
+956,2. geometry built but meshing failed
+952,2. geometry built but meshing failed
+948,2. geometry built but meshing failed
+946,2. geometry built but meshing failed
+938,2. geometry built but meshing failed
+935,2. geometry built but meshing failed
+926,2. geometry built but meshing failed
+924,2. geometry built but meshing failed
+918,2. geometry built but meshing failed
+914,2. geometry built but meshing failed
+902,2. geometry built but meshing failed
+895,2. geometry built but meshing failed
+893,2. geometry built but meshing failed
+890,2. geometry built but meshing failed
+889,2. geometry built but meshing failed
+884,2. geometry built but meshing failed
+865,2. geometry built but meshing failed
+849,2. geometry built but meshing failed
+600,2. geometry built but meshing failed
+829,2. geometry built but meshing failed
+809,2. geometry built but meshing failed
+585,2. geometry built but meshing failed
+1,2. geometry built but meshing failed
+551,2. geometry built but meshing failed
+231,2. geometry built but meshing failed
+228,2. geometry built but meshing failed
+222,2. geometry built but meshing failed
+215,2. geometry built but meshing failed
+194,2. geometry built but meshing failed
+172,2. geometry built but meshing failed
+169,2. geometry built but meshing failed
+164,2. geometry built but meshing failed
+148,2. geometry built but meshing failed
+107,2. geometry built but meshing failed
+102,2. geometry built but meshing failed
+96,2. geometry built but meshing failed
+94,2. geometry built but meshing failed
+88,2. geometry built but meshing failed
+64,2. geometry built but meshing failed
+54,2. geometry built but meshing failed
+52,2. geometry built but meshing failed
+51,2. geometry built but meshing failed
+34,2. geometry built but meshing failed
+13,2. geometry built but meshing failed
+3,2. geometry built but meshing failed
+234,2. geometry built but meshing failed
+560,2. geometry built but meshing failed
+248,2. geometry built but meshing failed
+282,2. geometry built but meshing failed
+549,2. geometry built but meshing failed
+543,2. geometry built but meshing failed
+524,2. geometry built but meshing failed
+522,2. geometry built but meshing failed
+511,2. geometry built but meshing failed
+503,2. geometry built but meshing failed
+488,2. geometry built but meshing failed
+992,2. geometry built but meshing failed
+485,2. geometry built but meshing failed
+482,2. geometry built but meshing failed
+451,2. geometry built but meshing failed
+445,2. geometry built but meshing failed
+418,2. geometry built but meshing failed
+398,2. geometry built but meshing failed
+389,2. geometry built but meshing failed
+382,2. geometry built but meshing failed
+355,2. geometry built but meshing failed
+329,2. geometry built but meshing failed
+292,2. geometry built but meshing failed
+290,2. geometry built but meshing failed
+278,2. geometry built but meshing failed
+997,2. geometry built but meshing failed
+430,"6. low solved, peak did not"
+266,"7. peak and low results on different meshes (node count mismatch), excluded"
+871,"7. peak and low results on different meshes (node count mismatch), excluded"

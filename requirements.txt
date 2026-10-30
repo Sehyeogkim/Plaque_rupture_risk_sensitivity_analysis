@@ -1,0 +1,10 @@
+# versions used to produce the reported results
+numpy==2.4.4
+pandas==2.3.3
+scipy==1.17.1
+scikit-learn==1.8.0
+SALib==1.5.2
+matplotlib==3.10.6
+
+# simulation pipeline extras (not needed for src/analysis)
+# tabulate, FreeCAD (STL->STEP), gmsh, meshio, pyvista, vtk, ansys-mapdl-core, ansys-mapdl-reader, pywin32

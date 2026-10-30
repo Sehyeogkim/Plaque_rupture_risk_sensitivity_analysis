@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the article below."
+title: "Material-dominated sensitivity of coronary plaque vulnerability to rupture — code and data"
+authors:
+  - family-names: Kim
+    given-names: Se Hyeog
+    affiliation: "Department of Mechanical Engineering, KAIST"
+  - family-names: Choi
+    given-names: Wonjin
+    affiliation: "Department of Mechanical Engineering, KAIST"
+  - family-names: Kim
+    given-names: Hyun Jin
+    affiliation: "Department of Mechanical Engineering, KAIST"
+repository-code: "https://github.com/Sehyeogkim/Plaque_rupture_risk_sensitivity_analysis"
+license: MIT
+preferred-citation:
+  type: article
+  title: "Material-dominated sensitivity of coronary plaque vulnerability to rupture"
+  authors:
+    - family-names: Kim
+      given-names: Se Hyeog
+    - family-names: Choi
+      given-names: Wonjin
+    - family-names: Kim
+      given-names: Hyun Jin
+  journal: "Computers in Biology and Medicine"
+  year: 2026
+  status: submitted

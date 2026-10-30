@@ -1,0 +1,58 @@
+Density: 1.06
+Viscosity: 0.04
+
+Number of Timesteps: 1000
+Time Step Size: 0.0002
+
+Number of Timesteps between Restarts: 50
+Number of Force Surfaces: 1
+Surface ID's for Force Calculation: 1
+Force Calculation Method: Residual Based
+Print Average Solution: True
+Print Error Indicators: False
+
+Step Construction: 0 1 0 1 0 1 0 1 0 1
+
+#####should I have to trun this on?
+Time Varying Boundary Conditions From File: True
+
+
+Number of Resistance Surfaces: 1
+List of Resistance Surfaces: 3
+Resistance Values: 134487.69
+#BCT File Type: DAT                                  
+#Number of BCT Files: 1
+
+#outlet - preessure, velocity history
+Number of Surfaces which Output Pressure and Flow: 1
+List of Output Surfaces: 3
+
+Pressure Coupling: Implicit
+Number of Coupled Surfaces: 1
+
+Backflow Stabilization Coefficient: 0.2
+Residual Control: False
+Residual Criteria: 0.001
+Minimum Required Iterations: 4
+svLS Type: NS
+Number of Krylov Vectors per GMRES Sweep: 100
+Number of Solves per Left-hand-side Formation: 1
+Tolerance on Momentum Equations: 0.05
+Tolerance on Continuity Equations: 0.4
+Tolerance on svLS NS Solver: 0.4
+Maximum Number of Iterations for svLS NS Solver: 1
+Maximum Number of Iterations for svLS Momentum Loop: 2
+Maximum Number of Iterations for svLS Continuity Loop: 400
+Time Integration Rule: Second Order
+Time Integration Rho Infinity: 0.5
+Flow Advection Form: Convective
+Quadrature Rule on Interior: 2
+Quadrature Rule on Boundary: 3
+
+Use Flow Control : True
+Number of Surfaces with Flow Control: 1
+List of Surfaces with Flow Control: 2
+Start Timestep for Flow Control: 250
+Flow Control Scale Factor: 0.001
+Maximum Flow Control Scale Factor: 1.5
+Threshold Residual for Flow Control: 0.1
